@@ -1,8 +1,10 @@
 #References
 
 ##Frontend
-
 * [Frontend stuff - moklik](https://github.com/moklick/frontend-stuff)
+
+##Mobile
+* [iOS UI Libraries](https://github.com/cjwirth/awesome-ios-ui)
 
 ##Computer science literature
 * [CS literature of the day - tylertreat](https://github.com/tylertreat/CS-Literature-of-the-Day)
